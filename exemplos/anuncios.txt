@@ -1,0 +1,31 @@
+=== ANÚNCIO 1 ===
+Estamos contratando! Desenvolvedor Backend Python Pleno para atuar na TechCorp.
+Vaga 100% remota. Salário entre R$ 7.000 e R$ 10.000.
+Requisitos: Python, PostgreSQL, Docker, FastAPI ou Flask.
+Benefícios: VR, VA, plano de saúde, day off no aniversário.
+
+=== ANÚNCIO 2 ===
+Oportunidade Júnior na DataSolutions. Cidade: Belo Horizonte/MG. Modalidade híbrida.
+Buscamos Analista de Dados em início de carreira. Salário a combinar.
+Conhecimentos desejados: SQL, Excel avançado, Python básico, Power BI.
+Oferecemos: vale-refeição e plano odontológico.
+
+=== ANÚNCIO 3 ===
+TechHub abre vaga de Engenheiro de Software Sênior. Presencial em São Paulo - capital.
+Faixa salarial: até R$ 18.000. Necessário experiência com sistemas distribuídos,
+Kubernetes, AWS, e linguagens como Go ou Java. Plano de saúde familiar.
+
+=== ANÚNCIO 4 ===
+Designer UX procurado pela startup BlueLab. Remoto. Sem informação de salário.
+Necessário portfólio em Figma e experiência com pesquisa de usuário.
+
+=== ANÚNCIO 5 ===
+Vaga: Tech Lead. Empresa: não divulgada. Híbrido com 2 dias presenciais em Curitiba.
+Salário: R$ 15.000 a R$ 22.000 + bônus anual.
+Stack: Node.js, TypeScript, React, GraphQL, AWS.
+Benefícios: home office subsidiado, gympass, equipamento Apple, 30 dias de férias.
+
+=== ANÚNCIO 6 ===
+TI Lopes contrata Estagiário de Engenharia de Dados. Presencial - Recife/PE.
+Bolsa-auxílio R$ 2.200. Vagas afirmativas. Estamos abertos a estudantes a partir
+do 4o período de Engenharia, Ciência da Computação ou Sistemas de Informação.
